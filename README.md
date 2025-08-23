@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veenakutty&label=Profile%20views&color=0e75b6&style=flat" alt="veenakutty" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veenakutty" alt="veenakutty" /></a> </p>
-
 - 🌱 I’m currently learning **Advanced ML, AI, and deployment of models**
 
 - 💬 Ask me about **Power BI, MySQL, Python, Advance Excel, ML, AI, Tableau**
@@ -24,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veenakutty&show_icons=true&locale=en&layout=compact" alt="veenakutty" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veenakutty&show_icons=true&locale=en" alt="veenakutty" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veenakutty&" alt="veenakutty" /></p>
