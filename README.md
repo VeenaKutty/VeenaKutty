@@ -15,8 +15,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
----
-[![](https://komarev.com/ghpvc/?username=VeenaKutty&icon=1&color=2)](https://visitcount.itsvg.in)
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
